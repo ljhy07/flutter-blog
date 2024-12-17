@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666416714876",
+    "project_id": "ljhy-flutter",
+    "storage_bucket": "ljhy-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666416714876:android:15cdfb267a51faaa6a65f9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_class_blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2MsSFttsga2E1lgyspOdi3SLwC2Xn2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
